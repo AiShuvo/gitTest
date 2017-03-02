@@ -1,5 +1,6 @@
 var ami = "i dont know anything"
 //thanks to allah........
+//thanks to allah again................
 function show(){
 	alert(ami);
 }
